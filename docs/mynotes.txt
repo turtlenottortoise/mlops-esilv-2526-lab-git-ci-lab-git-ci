@@ -1,0 +1,18 @@
+                                =======================
+                                        My Notes
+                                =======================
+
+============
+TP 1 : CI/CD
+============
+
+1: Git
+======
+
+    - Github account: https://github.com/regisklaconsulting/
+        - [Personal] I forked the original repo in my github account 
+    - Fill identity.md, commit and push 
+    - Create answers/1.3 
+        
+
+
