@@ -1,0 +1,30 @@
+Initial Setup
+=============
+
+From classrooms 
+===============
+
+url = https://classroom.github.com/classrooms 
+    > Lab Git/CI 
+    > hit "kla" in the filters and select "regisklaconsulting" > "Repository" 
+        => A new repository was created for us at "https://github.com/cours-esilv/lab-git-ci-regisklaconsulting"
+
+Clone this repository locally: 
+
+> git clone https://github.com/cours-esilv/lab-git-ci-regisklaconsulting.git
+
+Done. 
+
+Push/Update Rights
+==================
+
+Now let's check if we have the rights to push and update this repository... 
+
+
+
+
+
+
+
+
+
