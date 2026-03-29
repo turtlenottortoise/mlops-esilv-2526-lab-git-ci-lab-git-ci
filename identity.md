@@ -1,4 +1,4 @@
 Enter your details below:
 
-* first_name: Rochdy
-* last_name: BACHABI
+* first_name: Léonard
+* last_name: PAHLAWAN
